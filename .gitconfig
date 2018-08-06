@@ -1,0 +1,23 @@
+[user]
+	username = cz
+	name = cz
+	location = San Francisco
+	website = www.chriszacharias.com
+	email = cindy@coinapult.com
+	signingkey = 756C6467EF8683A1B8E5C9551EB8402A1A1B35B6
+[commit]
+	gpgsign = true
+[aliases]
+	keybase = cz
+	twitter = zacman85
+	github = cindy-zimmerman
+	reddit = zacman85
+	hackernews = zacman85
+	facebook = czacharias
+	bitbucket = cindy-zimmerman
+[addresses]
+bitcoin[] = 1KaRW5tvsf2w23jyESZPR5cpuJdvwa5bJN
+[alias]
+	pushall = !git remote | xargs -L1 -I R git push R $2
+[merge "ours"]
+	driver = true
