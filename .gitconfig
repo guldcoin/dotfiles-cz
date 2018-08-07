@@ -3,7 +3,6 @@
 	name = cz
 	location = San Francisco
 	website = www.chriszacharias.com
-	email = cindy@coinapult.com
 	signingkey = 756C6467EF8683A1B8E5C9551EB8402A1A1B35B6
 [commit]
 	gpgsign = true
